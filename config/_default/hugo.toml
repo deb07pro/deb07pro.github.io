@@ -4,6 +4,9 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
+[caches.images]
+  dir = ':cacheDir/images'
+
 [pagination]
   pagerSize = 10
 
