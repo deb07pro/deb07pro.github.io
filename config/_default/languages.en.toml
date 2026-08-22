@@ -21,8 +21,8 @@ title = "Deb's Townhall"
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
      { discord = "https://discord.gg/CzHWt4DRNg" },
-     { github = "https://github.com/deb07pro" },
+     { github = "https://github.com/@deb07pro" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { x-twitter = "https://twitter.com/username" },
-     { youtube = "https://youtube.com/deb07pro" },
+     { youtube = "https://youtube.com/@deb07pro" },
    ]

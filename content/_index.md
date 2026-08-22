@@ -1,1 +1,1 @@
-hello, im just a silly guy who lives in someplace on earth; likes tinkering with my system and spending hours fixing just a simple issue; currently in the learning phase of my life. ahhh competitive exams are surely a pain
+hello, im just a silly guy who lives in someplace on earth; likes tinkering my system and spending hours fixing simple issues which were created ofc due to my silliness :)
