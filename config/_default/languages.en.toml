@@ -14,7 +14,7 @@ title = "Deb's Townhall"
 
 [params.author]
   name = "anirban"
-  image = "img/arima.jpg"
+  image = "img/profile.png"
   # headline = "I'm only human"
   bio = "pondering or maybe not"
    links = [
