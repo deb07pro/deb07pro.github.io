@@ -1,1 +1,1 @@
-hello, im just a silly guy who lives in someplace on earth; likes tinkering my system and spending hours fixing simple issues which were created ofc due to my silliness :)
+hello, im just a silly guy who lives in someplace on earth; likes tinkering my system and spending hours fixing simple issues, well its fun to do so :D
